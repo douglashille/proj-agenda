@@ -1,0 +1,27 @@
+.agd-title {
+    white-space: unset;
+    color: blue;
+}
+
+.agd-line {
+    height: 2px;
+    margin-bottom: 5px;  
+    background-color: blue;  
+}
+
+.agd-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.agd-container {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+  }
+  
+  th.mat-sort-header-sorted {
+    color: black;
+  }
